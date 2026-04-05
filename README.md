@@ -23,6 +23,7 @@ An AI-powered chatbot that answers company policy-related queries using Retrieva
 ---
 
 ## 📂 Project Structure
+```
 .
 ├── app.py
 ├── document_loader.py
@@ -31,6 +32,7 @@ An AI-powered chatbot that answers company policy-related queries using Retrieva
 ├── requirements.txt
 ├── docs/
 └── faiss_index/
+```
 
 ---
 
